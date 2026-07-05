@@ -1,0 +1,9 @@
+# generated: DO NOT EDIT BY HAND — produced from the export script. Edit the config + re-run.
+node_modules/
+vendor/
+.env
+.env.*
+*.log
+__pycache__/
+.venv/
+dist/

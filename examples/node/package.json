@@ -1,0 +1,14 @@
+{
+  "name": "hotel-api-node-examples",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "ScoutingAPI examples in Node.js using native fetch.",
+  "license": "MIT-0",
+  "private": true,
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "quickstart": "node quickstart.mjs"
+  }
+}
