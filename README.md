@@ -110,6 +110,10 @@ Part of the ScoutingAPI open resource set — one unified accommodation-data API
 - [travel-skills](https://github.com/scoutingapi/travel-skills)
 - [hotel-mcp](https://github.com/scoutingapi/hotel-mcp)
 - [travel-workflows](https://github.com/scoutingapi/travel-workflows)
+- [airbnb-skills](https://github.com/scoutingapi/airbnb-skills)
+- [booking-com-skills](https://github.com/scoutingapi/booking-com-skills)
+- [vrbo-skills](https://github.com/scoutingapi/vrbo-skills)
+- [google-hotels-skills](https://github.com/scoutingapi/google-hotels-skills)
 
 - Website: <https://scoutingapi.com> · Docs: <https://scoutingapi.com/docs> · Status: <https://status.scoutingapi.com>
 
