@@ -1,3 +1,3 @@
-module github.com/scoutingapi/hotel-api/examples/go
+module github.com/stayingapi/hotel-api/examples/go
 
 go 1.22

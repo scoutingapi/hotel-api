@@ -13,10 +13,10 @@ Underwriting a short-term-rental market means one repeatable dataset: what is li
 
 ## Get it
 
-- **AI-agent skill + n8n workflow:** [str-market-scan in travel-workflows](https://github.com/scoutingapi/travel-workflows) · rendered detail page: [https://scoutingapi.com/workflows/str-market-scan](https://scoutingapi.com/workflows/str-market-scan)
+- **AI-agent skill + n8n workflow:** [str-market-scan in travel-workflows](https://github.com/stayingapi/travel-workflows) · rendered detail page: [https://stayingapi.com/workflows/str-market-scan](https://stayingapi.com/workflows/str-market-scan)
 - **Endpoints used:** `search`, `price`, `listing`
 
-Failed/empty calls are free; sandbox calls cost 0. Costs: [https://scoutingapi.com/pricing](https://scoutingapi.com/pricing).
+Failed/empty calls are free; sandbox calls cost 0. Costs: [https://stayingapi.com/pricing](https://stayingapi.com/pricing).
 
 ---
 

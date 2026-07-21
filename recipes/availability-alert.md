@@ -13,10 +13,10 @@ Given a known listing (or a batch) and a date window, poll day-by-day availabili
 
 ## Get it
 
-- **AI-agent skill + n8n workflow:** [availability-alert in travel-workflows](https://github.com/scoutingapi/travel-workflows) · rendered detail page: [https://scoutingapi.com/workflows/availability-alert](https://scoutingapi.com/workflows/availability-alert)
+- **AI-agent skill + n8n workflow:** [availability-alert in travel-workflows](https://github.com/stayingapi/travel-workflows) · rendered detail page: [https://stayingapi.com/workflows/availability-alert](https://stayingapi.com/workflows/availability-alert)
 - **Endpoints used:** `availability`, `listing`
 
-Failed/empty calls are free; sandbox calls cost 0. Costs: [https://scoutingapi.com/pricing](https://scoutingapi.com/pricing).
+Failed/empty calls are free; sandbox calls cost 0. Costs: [https://stayingapi.com/pricing](https://stayingapi.com/pricing).
 
 ---
 

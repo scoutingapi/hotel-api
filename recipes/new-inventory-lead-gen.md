@@ -13,10 +13,10 @@ Fresh inventory is a lead: a new short-term rental appearing in your target mark
 
 ## Get it
 
-- **AI-agent skill + n8n workflow:** [new-inventory-lead-gen in travel-workflows](https://github.com/scoutingapi/travel-workflows) · rendered detail page: [https://scoutingapi.com/workflows/new-inventory-lead-gen](https://scoutingapi.com/workflows/new-inventory-lead-gen)
+- **AI-agent skill + n8n workflow:** [new-inventory-lead-gen in travel-workflows](https://github.com/stayingapi/travel-workflows) · rendered detail page: [https://stayingapi.com/workflows/new-inventory-lead-gen](https://stayingapi.com/workflows/new-inventory-lead-gen)
 - **Endpoints used:** `search`, `availability`
 
-Failed/empty calls are free; sandbox calls cost 0. Costs: [https://scoutingapi.com/pricing](https://scoutingapi.com/pricing).
+Failed/empty calls are free; sandbox calls cost 0. Costs: [https://stayingapi.com/pricing](https://stayingapi.com/pricing).
 
 ---
 

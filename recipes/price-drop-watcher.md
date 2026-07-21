@@ -13,10 +13,10 @@ Track a known listing for specific dates on a schedule and alert when its total 
 
 ## Get it
 
-- **AI-agent skill + n8n workflow:** [price-drop-watcher in travel-workflows](https://github.com/scoutingapi/travel-workflows) · rendered detail page: [https://scoutingapi.com/workflows/price-drop-watcher](https://scoutingapi.com/workflows/price-drop-watcher)
+- **AI-agent skill + n8n workflow:** [price-drop-watcher in travel-workflows](https://github.com/stayingapi/travel-workflows) · rendered detail page: [https://stayingapi.com/workflows/price-drop-watcher](https://stayingapi.com/workflows/price-drop-watcher)
 - **Endpoints used:** `price`, `price-compare`
 
-Failed/empty calls are free; sandbox calls cost 0. Costs: [https://scoutingapi.com/pricing](https://scoutingapi.com/pricing).
+Failed/empty calls are free; sandbox calls cost 0. Costs: [https://stayingapi.com/pricing](https://stayingapi.com/pricing).
 
 ---
 

@@ -4,16 +4,16 @@
 
 Cross-OTA price comparison for one property — the flagship endpoint.
 
-Compare the price of one property across booking platforms in a single call, resolved through the Google Hotels backbone. The response carries the offers plus ScoutingAPI-computed min and median as first-class fields, so you can read the cheapest and typical cross-OTA price without re-deriving them. No cross-platform short-term-rental price-comparison API exists elsewhere — this is the wedge.
+Compare the price of one property across booking platforms in a single call, resolved through the Google Hotels backbone. The response carries the offers plus StayingAPI-computed min and median as first-class fields, so you can read the cheapest and typical cross-OTA price without re-deriving them. No cross-platform short-term-rental price-comparison API exists elsewhere — this is the wedge.
 
 ## Example — cross-platform
 
 ```bash
-curl -s "https://api.scoutingapi.com/v1/v1/price-compare" \
+curl -s "https://api.stayingapi.com/v1/v1/price-compare" \
   -G \
   --data-urlencode "location=Split, HR" \
   --data-urlencode "name=Hotel Park Split" \
-  -H "Authorization: Bearer $SCOUTINGAPI_KEY"
+  -H "Authorization: Bearer $STAYINGAPI_KEY"
 ```
 
 ## Parameters
@@ -62,8 +62,8 @@ curl -s "https://api.scoutingapi.com/v1/v1/price-compare" \
 
 ## Credits
 
-Billed only on success; failed/empty calls are free; sandbox calls cost 0. Current costs: [https://scoutingapi.com/pricing](https://scoutingapi.com/pricing) · full contract: [openapi.json](https://api.scoutingapi.com/openapi.json).
+Billed only on success; failed/empty calls are free; sandbox calls cost 0. Current costs: [https://stayingapi.com/pricing](https://stayingapi.com/pricing) · full contract: [openapi.json](https://api.stayingapi.com/openapi.json).
 
 ---
 
-Back to the [hotel-api README](../README.md) · [Docs](https://scoutingapi.com/docs/endpoints/price-compare)
+Back to the [hotel-api README](../README.md) · [Docs](https://stayingapi.com/docs/endpoints/price-compare)

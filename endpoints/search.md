@@ -9,10 +9,10 @@ Discover properties matching a location, dates, occupancy and filters across one
 ## Example — cross-platform
 
 ```bash
-curl -s "https://api.scoutingapi.com/v1/v1/search" \
+curl -s "https://api.stayingapi.com/v1/v1/search" \
   -G \
   --data-urlencode "location=Split, HR" \
-  -H "Authorization: Bearer $SCOUTINGAPI_KEY"
+  -H "Authorization: Bearer $STAYINGAPI_KEY"
 ```
 
 ## Parameters
@@ -78,8 +78,8 @@ curl -s "https://api.scoutingapi.com/v1/v1/search" \
 
 ## Credits
 
-Billed only on success; failed/empty calls are free; sandbox calls cost 0. Current costs: [https://scoutingapi.com/pricing](https://scoutingapi.com/pricing) · full contract: [openapi.json](https://api.scoutingapi.com/openapi.json).
+Billed only on success; failed/empty calls are free; sandbox calls cost 0. Current costs: [https://stayingapi.com/pricing](https://stayingapi.com/pricing) · full contract: [openapi.json](https://api.stayingapi.com/openapi.json).
 
 ---
 
-Back to the [hotel-api README](../README.md) · [Docs](https://scoutingapi.com/docs/endpoints/search)
+Back to the [hotel-api README](../README.md) · [Docs](https://stayingapi.com/docs/endpoints/search)

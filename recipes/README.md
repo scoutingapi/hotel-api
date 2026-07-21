@@ -2,7 +2,7 @@
 
 # Recipes
 
-Ready-made automations you can run on accommodation data — each ships as an importable n8n workflow and a portable AI-agent skill. Browse them all in the [travel-workflows](https://github.com/scoutingapi/travel-workflows) repo or rendered at [https://scoutingapi.com/workflows](https://scoutingapi.com/workflows).
+Ready-made automations you can run on accommodation data — each ships as an importable n8n workflow and a portable AI-agent skill. Browse them all in the [travel-workflows](https://github.com/stayingapi/travel-workflows) repo or rendered at [https://stayingapi.com/workflows](https://stayingapi.com/workflows).
 
 - [Multi-source price comparison → cheapest-rate report](./cross-ota-price-comparison.md) — Compare one property across booking platforms and report the cheapest rate, with savings vs. the median.
 - [Property availability watch → alert](./availability-alert.md) — Watch a listing over a date window and get alerted the moment a wanted date becomes available.

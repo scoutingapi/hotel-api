@@ -2,11 +2,11 @@
 
 # hotel-api — php examples
 
-Search accommodation stays against the ScoutingAPI unified schema.
+Search accommodation stays against the StayingAPI unified schema.
 
 ```bash
-export SCOUTINGAPI_KEY="scout_..."
+export STAYINGAPI_KEY="stay_..."
 php quickstart.php
 ```
 
-Get a free key (no card) at <https://scoutingapi.com/signup>. A `scout_test_` sandbox key returns deterministic fixtures at zero cost. Full contract: [openapi.json](https://api.scoutingapi.com/openapi.json).
+Get a free key (no card) at <https://stayingapi.com/signup>. A `stay_test_` sandbox key returns deterministic fixtures at zero cost. Full contract: [openapi.json](https://api.stayingapi.com/openapi.json).
